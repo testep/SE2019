@@ -4,28 +4,29 @@ CEN Section
 <ul>
 <li>Group 1 -></li>
 <li>Group 2 -></li>
-Group 3 ->
-Group 4 ->
-Group 5 ->
-Group 6 ->
-Group 7 ->
-Group 8 ->
-Group 9 ->
-Group 10 ->
-
+<li>Group 3 -></li>
+<li>Group 4 -></li>
+<li>Group 5 -></li>
+<li>Group 6 -></li>
+<li>Group 7 -></li>
+<li>Group 8 -></li>
+<li>Group 9 -></li>
+<li>Group 10 -></li>
+</ul>
 BINF Section A
-
-Group 1 ->
-Group 2 ->
-Group 3 ->
-Group 4 ->
-Group 5 ->
-Group 6 ->
-
+<ul>
+<li>Group 1 -></li>
+<li>Group 2 -></li>
+<li>Group 3 -></li>
+<li>Group 4 -></li>
+<li>Group 5 -></li>
+<li>Group 6 -></li>
+</ul>
 BINF Section B
-
-Group 1 ->
-Group 2 ->
-Group 3 ->
-Group 4 ->
-Group 5 ->
+<ul>
+<li>Group 1 -></li>
+<li>Group 2 -></li>
+<li>Group 3 -></li>
+<li>Group 4 -></li>
+<li>Group 5 -></li>
+</ul>
