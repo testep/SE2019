@@ -2,8 +2,8 @@ CEN 302 - Software Engineering Projects
 
 CEN Section
 
-Group 1 ->
-Group 2 ->
+<p>Group 1 ->
+<p>Group 2 -></p>
 Group 3 ->
 Group 4 ->
 Group 5 ->
