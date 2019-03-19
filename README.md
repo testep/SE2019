@@ -2,7 +2,7 @@ CEN 302 - Software Engineering Projects
 
 CEN Section
 <ul>
-<li>Group 1 -> Epoka Canteen Automation (https://github.com/InaHoxha/CanteenAutomation.git)</li>
+<li>Group 1 -> Epoka Canteen Automation (https://github.com/InaHoxha/Epoka-Canteen-Automation.git)</li>
 <li>Group 2 -> Epoka Unified System (https://github.com/eDervishaj16/Epoka-Unified-System)</li>
 <li>Group 3 -> Rhino (https://github.com/aruci16/rhino)</li>
 <li>Group 4 -></li>
