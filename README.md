@@ -7,7 +7,7 @@ CEN Section
 <li>Group 3 -> Rhino (https://github.com/aruci16/rhino)</li>
 <li>Group 4 -></li>
 <li>Group 5 ->  eVote (https://github.com/rkaci16/evoting-system)</li>
-<li>Group 6 -></li>
+<li>Group 6 -> Cappuccino (https://github.com/AriGjerazi/Cappuccino) </li>
 <li>Group 7 -> Zanatciu (https://github.com/aelezi16/zanatciu.git)</li>
 <li>Group 8 ->SPS State Police System (https://github.com/oballa16/SPS)</li> 
 <li>Group 9 ->B3albania_OSMS (https://github.com/tajdakumbulla/B3Albania_OSMS)</li>
