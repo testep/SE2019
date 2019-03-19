@@ -9,7 +9,7 @@ CEN Section
 <li>Group 5 ->  eVote (https://github.com/rkaci16/evoting-system)</li>
 <li>Group 6 -></li>
 <li>Group 7 -></li>
-<li>Group 8 -></li>
+<li>Group 8 ->SPS State Police System (https://github.com/oballa16/SPS)</li> 
 <li>Group 9 -></li>
 <li>Group 10 -></li>
 </ul>
