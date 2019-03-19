@@ -6,7 +6,7 @@ CEN Section
 <li>Group 2 -> Epoka Unified System (https://github.com/eDervishaj16/Epoka-Unified-System)</li>
 <li>Group 3 -> Rhino (https://github.com/aruci16/rhino)</li>
 <li>Group 4 -></li>
-<li>Group 5 -></li>
+<li>Group 5 ->  eVote (https://github.com/rkaci16/evoting-system)</li>
 <li>Group 6 -></li>
 <li>Group 7 -></li>
 <li>Group 8 -></li>
