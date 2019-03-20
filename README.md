@@ -18,7 +18,7 @@ BINF Section A
 <li>Group 1 -></li>
 <li>Group 2 -></li>
 <li>Group 3 -></li>
-<li>Group 4 -></li>
+<li>Group 4 -> WineSight (https://github.com/anxhelaKastrati/WineSight)</li>
 <li>Group 5 -></li>
 <li>Group 6 -></li>
 </ul>
