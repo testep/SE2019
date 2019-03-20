@@ -20,7 +20,7 @@ BINF Section A
 <li>Group 3 -></li>
 <li>Group 4 -> WineSight (https://github.com/anxhelaKastrati/WineSight)</li>
 <li>Group 5 -></li>
-<li>Group 6 -></li>
+<li>Group 6 -> ClassicBits (https://github.com/argentm/AMS) </li>
 </ul>
 BINF Section B
 <ul>
