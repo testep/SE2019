@@ -15,7 +15,7 @@ CEN Section
 </ul>
 BINF Section A
 <ul>
-<li>Group 1 -></li>
+<li>Group 1 -> Online Shopping Management System (https://github.com/emataj16/Online-Shopping-Management-System)</li>
 <li>Group 2 -></li>
 <li>Group 3 -></li>
 <li>Group 4 -> WineSight (https://github.com/anxhelaKastrati/WineSight)</li>
