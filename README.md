@@ -25,7 +25,7 @@ BINF Section A
 BINF Section B
 <ul>
 <li>Group 1 -></li>
-<li>Group 2 ->2CMS - Construction Company Management System (https://github.com/smuda16/2CMS)</li>
+<li>Group 2 -> 2CMS - Construction Company Management System (https://github.com/smuda16/2CMS)</li>
 <li>Group 3 -></li>
 <li>Group 4 -></li>
 <li>Group 5 ->RMS-RMS(https://github.com/hxheni/RMS-RMS-)</li>
