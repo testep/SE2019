@@ -1,4 +1,4 @@
-CEN 302 - Software Engineering Projects
+<h1>CEN 302 - Software Engineering Projects</h1>
 
 CEN Section
 <ul>
