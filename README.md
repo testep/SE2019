@@ -24,7 +24,7 @@ BINF Section A
 </ul>
 BINF Section B
 <ul>
-<li>Group 1 -></li>
+<li>Group 1 -> Hotel Management System (https://github.com/jcara16/Software-Engineering)</li>
 <li>Group 2 -> 2CMS - Construction Company Management System (https://github.com/smuda16/2CMS)</li>
 <li>Group 3 -></li>
 <li>Group 4 -></li>
