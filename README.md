@@ -5,7 +5,7 @@ CEN Section
 <li>Group 1 -> Epoka Canteen Automation (https://github.com/InaHoxha/Epoka-Canteen-Automation.git)</li>
 <li>Group 2 -> Epoka Unified System (https://github.com/eDervishaj16/Epoka-Unified-System)</li>
 <li>Group 3 -> Rhino (https://github.com/aruci16/rhino)</li>
-<li>Group 4 -></li>
+<li>Group 4 -></li>Clinic Management System(https://github.com/Pnako16/CMS)</li>
 <li>Group 5 ->  eVote (https://github.com/rkaci16/evoting-system)</li>
 <li>Group 6 -> Cappuccino (https://github.com/AriGjerazi/Cappuccino) </li>
 <li>Group 7 -> Zanatciu (https://github.com/aelezi16/zanatciu.git)</li>
