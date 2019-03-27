@@ -26,7 +26,7 @@ BINF Section B
 <ul>
 <li>Group 1 -> Hotel Management Master (https://github.com/jcara16/Hotel-Management-System)</li>
 <li>Group 2 -> 2CMS - Construction Company Management System (https://github.com/smuda16/2CMS)</li>
-<li>Group 3 -></li>
+<li>Group 3 -> Clinic Management System (https://github.com/bgashi16/CMS )</li>
 <li>Group 4 ->Manager Track (https://github.com/kcepani16/ManagerTrack.git)</li>
 <li>Group 5 ->RMS-RMS(https://github.com/hxheni/RMS-RMS-)</li>
 </ul>
