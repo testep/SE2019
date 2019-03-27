@@ -17,7 +17,7 @@ BINF Section A
 <ul>
 <li>Group 1 -> Online Shopping Management System (https://github.com/emataj16/Online-Shopping-Management-System)</li>
 <li>Group 2 -> Furniture Inventory System (https://github.com/emuka16/Furniture-Inventory-System) </li>
-<li>Group 3 -></li>
+<li>Group 3 -> Distribution Management System (https://github.com/Nensi1/Distribution-Management-System) </li>
 <li>Group 4 -> WineSight (https://github.com/anxhelaKastrati/WineSight)</li>
 <li>Group 5 -></li>
 <li>Group 6 -> ClassicBits (https://github.com/argentm/AMS) </li>
