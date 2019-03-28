@@ -15,7 +15,7 @@ CEN Section
 </ul>
 BINF Section A
 <ul>
-<li>Group 1 -> Online Shopping Management System (https://github.com/emataj16/Online-Shopping-Management-System)</li>
+<li>Group 1 -> Real Estate Management System (https://github.com/emataj16/Real-Estate-Management-System)</li>
 <li>Group 2 -> Furniture Management System (https://github.com/emuka16/Furniture-Management-System) </li>
 <li>Group 3 -> Distribution Management System (https://github.com/Nensi1/Distribution-Management-System) </li>
 <li>Group 4 -> WineSight (https://github.com/anxhelaKastrati/WineSight)</li>
