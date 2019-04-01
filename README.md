@@ -5,8 +5,8 @@ CEN Section
 <li>Group 1 -> Epoka Canteen Automation (https://github.com/InaHoxha/Epoka-Canteen-Automation.git)</li>
 <li>Group 2 -> Epoka Unified System (https://github.com/eDervishaj16/Epoka-Unified-System)</li>
 <li>Group 3 -> Rhino (https://github.com/aruci16/rhino)</li>
-<li>Group 4 -></li>Clinic Management System(https://github.com/Pnako16/CMS)</li>
-<li>Group 5 ->  eVote (https://github.com/rkaci16/evoting-system)</li>
+<li>Group 4 -> Clinic Management System(https://github.com/Pnako16/CMS)</li>
+<li>Group 5 -> eVote (https://github.com/rkaci16/evoting-system)</li>
 <li>Group 6 -> Cappuccino (https://github.com/AriGjerazi/Cappuccino) </li>
 <li>Group 7 -> Zanatciu (https://github.com/aelezi16/zanatciu.git)</li>
 <li>Group 8 -> SPS State Police System (https://github.com/oballa16/SPS)</li> 
@@ -19,7 +19,7 @@ BINF Section A
 <li>Group 2 -> Furniture Management System (https://github.com/emuka16/Furniture-Management-System) </li>
 <li>Group 3 -> Distribution Management System (https://github.com/Nensi1/Distribution-Management-System) </li>
 <li>Group 4 -> WineSight (https://github.com/anxhelaKastrati/WineSight)</li>
-<li>Group 5 -></li>
+<li>Group 5 -> iRestaurant (https://github.com/eraldaruci/iRestaurant)</li>
 <li>Group 6 -> ClassicBits (https://github.com/argentm/AMS) </li>
 </ul>
 BINF Section B
@@ -27,6 +27,6 @@ BINF Section B
 <li>Group 1 -> Hotel Management Master (https://github.com/jcara16/Hotel-Management-System)</li>
 <li>Group 2 -> 2CMS - Construction Company Management System (https://github.com/smuda16/2CMS)</li>
 <li>Group 3 -> Clinic Management System (https://github.com/bgashi16/CMS )</li>
-<li>Group 4 ->Manager Track (https://github.com/kcepani16/ManagerTrack.git)</li>
-<li>Group 5 ->RMS-RMS(https://github.com/hxheni/RMS-RMS-)</li>
+<li>Group 4 -> Manager Track (https://github.com/kcepani16/ManagerTrack.git)</li>
+<li>Group 5 -> RMS-RMS(https://github.com/hxheni/RMS-RMS-)</li>
 </ul>
