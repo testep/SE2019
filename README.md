@@ -29,4 +29,5 @@ BINF Section B
 <li>Group 3 -> Clinic Management System (https://github.com/bgashi16/CMS )</li>
 <li>Group 4 -> Manager Track (https://github.com/kcepani16/ManagerTrack.git)</li>
 <li>Group 5 -> RMS-RMS(https://github.com/hxheni/RMS-RMS-)</li>
+  <li>Alumni Information System EU (https://github.com/smakishti16/AIS)</li>
 </ul>
